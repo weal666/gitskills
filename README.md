@@ -1,5 +1,5 @@
 # gitskills
 
-create a dev branch
+create a dev branch & simple
 
 
